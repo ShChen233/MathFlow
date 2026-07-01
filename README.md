@@ -1,4 +1,4 @@
-# <img src="figs/logo.png" alt="MathFlow Logo" width="30"/> MathFlow: Enhancing the Perceptual Flow of MLLMs for Visual Mathematical Problems
+# <img src="figs/logo.png" alt="MathFlow Logo" width="30"/> [ACL-26 main] MathFlow: Enhancing the Perceptual Flow of MLLMs for Visual Mathematical Problems
 
 ![MathQA](https://img.shields.io/badge/Task-MathVQA-red) 
 ![Mathematical Reasoning](https://img.shields.io/badge/Task-Mathematical_Reasoning-red) 
@@ -16,6 +16,8 @@
 <!-- 🌟 For more details, please refer to the project page with dataset exploration and visualization tools: [https://mathverse-cuhk.github.io/](https://mathverse-cuhk.github.io/). -->
 
 ## 💥 News
+- **[2025.04.10]** 🚀 MathFLow is accepted to ACL 2026 main!
+
 - **[2025.03.13]** 🚀 We release the [arXiv paper] (https://arxiv.org/abs/2503.16549), the ***testmini*** set of FlowVerse at [[🤗 Huggingface Dataset]](https://huggingface.co/datasets/MathFlow-ZJU/MathFlow/tree/main)!
 - **[2026.03.20]** 🎉 Our paper has been accepted to the **ACL 2026 main conference**.
 
