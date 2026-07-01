@@ -17,7 +17,7 @@
 
 ## 💥 News
 - **[2025.03.13]** 🚀 We release the [arXiv paper] (https://arxiv.org/abs/2503.16549), the ***testmini*** set of FlowVerse at [[🤗 Huggingface Dataset]](https://huggingface.co/datasets/MathFlow-ZJU/MathFlow/tree/main)!
-- **[2026.03.20]** 🎉 Our paper has been accepted to the ACL 2026 main conference.
+- **[2026.03.20]** 🎉 Our paper has been accepted to the **ACL 2026 main conference**.
 
 ## 👀 About MathFlow
 
@@ -110,14 +110,7 @@ If you find our data or code useful in your research, please use the following B
 ```BibTeX
 @inproceedings{chen-etal-2026-mathflow,
     title = "MathFlow: Enhancing the Perceptual Flow of MLLMs for Visual Mathematical Problems",
-    author = "Chen, Shuhang  and
-      Yuan, Hangjie  and
-      Xu, Yunqiu  and
-      Liu, Pengwei  and
-      Feng, Tao  and
-      Cen, Jun  and
-      Huang, Zeying  and
-      Yang, Yi",
+    author = "Chen, Shuhang  and Yuan, Hangjie  and Xu, Yunqiu  and Liu, Pengwei  and Feng, Tao  and Cen, Jun  and Huang, Zeying  and Yang, Yi",
     booktitle = "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
     year = "2026",
     pages = "967--992",
