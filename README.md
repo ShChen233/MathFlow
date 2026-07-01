@@ -91,9 +91,7 @@ python score_final.py \
 ```
 
 
-## 💪 Training Code 
 
-Coming soon!
 
 <!-- ## 🏆 Leaderboard -->
 
@@ -105,9 +103,6 @@ Coming soon!
 [FlowVerse](https://huggingface.co/datasets/MathFlow-ZJU/MathFlow/tree/main) dataset is available on Huggingface.
 
 
-## 📈 Evaluation Results
-
-Coming soon!
 
 ## 📝 Citation
 
