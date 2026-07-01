@@ -114,7 +114,7 @@ Coming soon!
 If you find our data or code useful in your research, please use the following BibTeX entry.
 ```BibTeX
 @inproceedings{chen-etal-2026-mathflow,
-    title = "{M}ath{F}low: Enhancing the Perceptual Flow of {MLLM}s for Visual Mathematical Problems",
+    title = "MathFlow: Enhancing the Perceptual Flow of MLLMs for Visual Mathematical Problems",
     author = "Chen, Shuhang  and
       Yuan, Hangjie  and
       Xu, Yunqiu  and
@@ -123,7 +123,7 @@ If you find our data or code useful in your research, please use the following B
       Cen, Jun  and
       Huang, Zeying  and
       Yang, Yi",
-    booktitle = "Proceedings of the 64th Annual Meeting of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
+    booktitle = "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
     year = "2026",
     pages = "967--992",
 }
